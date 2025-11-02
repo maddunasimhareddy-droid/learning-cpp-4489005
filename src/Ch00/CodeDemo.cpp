@@ -1,7 +1,7 @@
 // Learning C++ 
 // Exercise 00_03
 // Using the exercise files on GitHub, by Eduardo Corpeño 
-// Modified by: Madduna
+// Modified by: Madduna0100
 
 #include <iostream>
 
